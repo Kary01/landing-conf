@@ -36,9 +36,24 @@
   background-color: #0f7b71;
 }
 
-.main-speakers .card .card-img-top{
-  max-height: 450px;
+#speakers .card .card-img-top{
+  max-height: 400px;
   object-fit: cover;
+}
+
+#speakers .card .icon-social {
+  color: #11a798;
+  font-size: 25px;
+}
+
+#date {
+  background-color: #1c3643;
+  color: white;
+}
+
+#date img {
+  max-width: 100%;
+  filter: grayscale(70%);
 }
 
 #footer {
