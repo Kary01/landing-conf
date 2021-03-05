@@ -36,6 +36,11 @@
   background-color: #0f7b71;
 }
 
+.main-speakers .card .card-img-top{
+  max-height: 450px;
+  object-fit: cover;
+}
+
 #footer {
   background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);
 }
