@@ -1,3 +1,7 @@
+body {
+  position: relative;
+}
+
 #header nav img {
   width: 60px;
 }
